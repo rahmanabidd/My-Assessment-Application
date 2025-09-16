@@ -58,10 +58,6 @@ Android application for NIT3213 Final Assignment demonstrating API integration a
 - ✅ Clean code structure
 - ✅ Unit tests included
 
-# My Assessment Application
-
-Android application for NIT3213 Final Assignment demonstrating API integration and Android development.
-
 ## Features
 
 - Login screen with authentication
@@ -99,7 +95,7 @@ Using Android Studio (Recommended)
    - If you see dependency errors, go to: File → Invalidate Caches / Restart
    - Select "Invalidate and Restart"
 
-##Run Instructions
+## Run Instructions
 Using Android Studio (Recommended)
 Connect Device or Emulator
 
@@ -111,7 +107,7 @@ Select API level 24 or higher
 
 Finish setup
 
-###Run the Application
+### Run the Application
 
 Click "Run" button (green play icon)
 
