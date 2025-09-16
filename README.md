@@ -54,9 +54,6 @@ Android application for NIT3213 Final Assignment demonstrating API integration a
 - AndroidX Lifecycle components
 - RecyclerView 1.3.2
 - Coroutines 1.7.3
-- ✅ Proper navigation and error handling
-- ✅ Clean code structure
-- ✅ Unit tests included
 
 ## Features
 
